@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\bin\Debug\net8.0\Mazing Problem.exe
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\bin\Debug\net8.0\Mazing Problem.deps.json
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\bin\Debug\net8.0\Mazing Problem.runtimeconfig.json
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\bin\Debug\net8.0\Mazing Problem.dll
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\bin\Debug\net8.0\Mazing Problem.pdb
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\Mazing Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\Mazing Problem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\Mazing Problem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\Mazing Problem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\Mazing Problem.dll
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\refint\Mazing Problem.dll
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\Mazing Problem.pdb
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\Mazing Problem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Github\Mazing-Problem\Mazing Problem\obj\Debug\net8.0\ref\Mazing Problem.dll
