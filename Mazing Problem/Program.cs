@@ -44,7 +44,7 @@ namespace MazeProblem
             }; //first graph
              */
             (int, int) entry = (0, 1);
-            (int, int) exit = (8, -10); //in total 8 colums and 11 rows? but the exit is on 10
+            (int, int) exit = (9, 7); //in total 8 colums and 11 rows? but the exit is on 10
 
             List<List<(int, int)>> allPaths = new List<List<(int, int)>>();
             List<(int, int)> path = new List<(int, int)> ();
@@ -62,7 +62,7 @@ namespace MazeProblem
             if (allPaths.Count > 0)
             {
                 var shortestPath = FindShortestPath(allPaths);
-                Console.WriteLine("\nFastst Path:");
+                Console.WriteLine("\nFastest Path:");
                 Console.WriteLine(string.Join(" -> ", shortestPath));
             }
             else
@@ -82,22 +82,22 @@ namespace MazeProblem
                 path.RemoveAt(path.Count - 1);
                 return;
             }
-
+           // mark current cell as visited
             visited[row, col] = true;
             path.Add(current);
 
-            for (int i = 0; i < 8; i++)
+            for (int i = 0; i < 8; i++) //explore all 8 directions
             {
                 int newRow = row + rowDir[i];
                 int newCol = col + colDir[i];
 
-                if (IsValidMove(maze, newRow, newCol, visited))
+                if (IsValidMove(maze, newRow, newCol, visited)) //check if next move is valid
                 {
                     FindPaths(maze, (newRow, newCol), exit, path, allPaths, visited);
                 }
             }
 
-            path.RemoveAt(path.Count - 1);
+            path.RemoveAt(path.Count - 1); //backtrack
             visited[row, col] = false;
         }
 

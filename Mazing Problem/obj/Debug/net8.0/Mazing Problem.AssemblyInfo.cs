@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mazing Problem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d1a4f89675e31507df9b901d57d91fe3244017")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mazing Problem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mazing Problem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
